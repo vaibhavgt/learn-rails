@@ -38,7 +38,8 @@ gem 'simple_form'
 
 gem 'zurb-foundation'
 
-gem "activerecord-tableless", "~> 1.0"
+gem "activerecord-tableless"
+
 
 group :development do
 	gem 'better_errors'
